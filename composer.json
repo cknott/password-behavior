@@ -1,9 +1,7 @@
 {
   "name": "cknott/password-behavior",
   "description": "Yii Model behavior for hashing passwords",
-  "minimum-stability": "alpha",
   "license": "proprietary",
-  "version": "dev-master",
   "authors": [
     {
       "name": "Christian Knott",
